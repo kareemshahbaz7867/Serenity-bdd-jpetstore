@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.serenity.tests.AccountsTest" skipped="0" tests="1" time="4.09" timestamp="2020-02-17 11:24:12"><testcase classname="com.serenity.tests.AccountsTest" name="Register a new user &amp; verify if the new user can login"><error message="no such window: window was already closed&#10;  (Session info: chrome=80.0.3987.87)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: /var/folders/rb/h3jzjl_j77n...}, goog:chromeOptions: {debuggerAddress: localhost:51742}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 9c19778b95439d0c75b6159024d1155d&#10;*** Element info: {Using=tag name, value=body}" type="org.openqa.selenium.NoSuchWindowException">no such window: window was already closed
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: /var/folders/rb/h3jzjl_j77n...}, goog:chromeOptions: {debuggerAddress: localhost:51742}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9c19778b95439d0c75b6159024d1155d
+*** Element info: {Using=tag name, value=body}</error><system-err>no such window: window was already closed
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: /var/folders/rb/h3jzjl_j77n...}, goog:chromeOptions: {debuggerAddress: localhost:51742}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9c19778b95439d0c75b6159024d1155d
+*** Element info: {Using=tag name, value=body}
+com.serenity.pages.AccountsPage.enterUserInformation(AccountsPage.java:71)
+com.serenity.steps.PetStoreSteps._enterUserInformation(PetStoreSteps.java:151)
+com.serenity.tests.AccountsTest.registerNewUserandValidateLogin(AccountsTest.java:52)
+</system-err></testcase></testsuite>

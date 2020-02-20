@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="com.serenity.tests.OrdersDataDrivenTest" skipped="0" tests="4" time="137.44" timestamp="2020-02-18 12:05:30"><testcase classname="com.serenity.tests.OrdersDataDrivenTest" name="Place an order data driven test"><error message="Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$328/52642932@766a52f5 (tried for 20 second(s) with 50 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$328/52642932@766a52f5 (tried for 20 second(s) with 50 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$328/52642932@766a52f5 (tried for 20 second(s) with 50 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'abduls-MacBook-Pro.local', ip: 'fe80:0:0:0:1434:ddd8:2bdc:5a8c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: driver.version: unknown
+com.serenity.pages.DashBoardPage.selectProductFromTheSideBar(DashBoardPage.java:48)
+com.serenity.steps.PetStoreSteps._selectProductFromTheSideBar(PetStoreSteps.java:190)
+com.serenity.tests.OrdersDataDrivenTest.proceedToOrdersAndShipping(OrdersDataDrivenTest.java:139)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>

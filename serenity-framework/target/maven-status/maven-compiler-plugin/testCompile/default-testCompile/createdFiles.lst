@@ -1,0 +1,7 @@
+com/serenity/tests/ProductsTest.class
+com/serenity/tests/LoginTest.class
+com/serenity/tests/OrdersTest.class
+com/serenity/tests/OrdersDataDrivenTest.class
+com/serenity/steps/PetStoreSteps.class
+com/serenity/tests/DashBoardTest.class
+com/serenity/tests/AccountsTest.class

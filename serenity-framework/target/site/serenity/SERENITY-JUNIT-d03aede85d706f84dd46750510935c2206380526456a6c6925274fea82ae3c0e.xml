@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.serenity.tests.DashBoardTest" skipped="0" tests="1" time="32.49" timestamp="2020-02-17 11:22:10"><testcase classname="com.serenity.tests.DashBoardTest" name="Click on links on Dashboard page &amp; arrive at the products page"><error message="Expected condition failed: waiting for title to be &quot;JPetStore Demo&quot;. Current title: &quot;&quot; (tried for 20 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for title to be "JPetStore Demo". Current title: "" (tried for 20 second(s) with 500 milliseconds interval)</error><system-err>Expected condition failed: waiting for title to be "JPetStore Demo". Current title: "" (tried for 20 second(s) with 500 milliseconds interval)
+com.serenity.pages.DashBoardPage.selectProductFromTheSideBar(DashBoardPage.java:38)
+com.serenity.steps.PetStoreSteps._selectProductFromTheSideBar(PetStoreSteps.java:190)
+com.serenity.tests.DashBoardTest.navigateToProductsPage(DashBoardTest.java:31)
+</system-err></testcase></testsuite>

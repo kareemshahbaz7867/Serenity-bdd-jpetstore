@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.serenity.tests.OrdersTest" skipped="0" tests="1" time="23.34" timestamp="2020-02-17 11:24:16"><testcase classname="com.serenity.tests.OrdersTest" name="Place an order"><error message="Expected condition failed: waiting for title to be &quot;JPetStore Demo&quot;. Current title: &quot;&quot; (tried for 20 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for title to be "JPetStore Demo". Current title: "" (tried for 20 second(s) with 500 milliseconds interval)</error><system-err>Expected condition failed: waiting for title to be "JPetStore Demo". Current title: "" (tried for 20 second(s) with 500 milliseconds interval)
+com.serenity.pages.LoginPage._Login(LoginPage.java:23)
+com.serenity.steps.PetStoreSteps._Login(PetStoreSteps.java:123)
+com.serenity.tests.OrdersTest.proceedToOrdersAndShipping(OrdersTest.java:54)
+</system-err></testcase></testsuite>
